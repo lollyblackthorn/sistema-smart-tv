@@ -8,12 +8,12 @@ public class SmartTv {
     }
     public void aumentarCanal(){
         canal++;
-        System.out.println("Canal: " + canal);
+        System.out.println("Canal atual: " + canal);
     }
 
     public void diminuirCanal(){
         canal--;
-        System.out.println("Canal: " + canal);
+        System.out.println("Canal atual: " + canal);
     }
 
     public void aumentarVolume(){
